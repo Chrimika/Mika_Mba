@@ -47,6 +47,9 @@ importers:
       three:
         specifier: ^0.173.0
         version: 0.173.0
+      three-stdlib:
+        specifier: ^2.36.0
+        version: 2.36.0(three@0.173.0)
       vite-plugin-glsl:
         specifier: ^1.3.3
         version: 1.4.1(rollup@4.40.2)(vite@6.3.5(sass@1.88.0))
